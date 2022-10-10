@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I think I am Funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nobaybe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nobaybe" height="30" width="40" /></a>
 <a href="https://fb.com/tống trung đoàn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tống trung đoàn" height="30" width="40" /></a>
