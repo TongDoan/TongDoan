@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tong Doan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tong Doan</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate frontend developer from VietNames</h3>
+<h3 align="center">A passionate frontend developer from VietNames<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/></h3>
  <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -8,7 +8,7 @@
 </div>
  <p align="right"> <img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="tongdoan" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tongdoan&label=Profile%20views&color=0e75b6&style=flat" alt="tongdoan" /> </p>
-
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">&nbsp;Talking about Personal Stuffs...</h3>
 - 🌱 I’m currently learning **React JS, Node JS**
 
 - 💬 Ask me about **FullStack JS**
